@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(aqua,rgb(209, 233, 158) );
+    text-align: center;
+    
+}
+
+
+.button{
+    background-color: cornflowerblue;
+    color:aqua;
+    font-size :20px; ;
+    font-weight: bolder;
+    padding: 9px;
+    border-radius :  10px; ;
+    
+}
+
+.button:hover{
+    
+    background-color: black;
+}
+
+p{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+h1{
+    color:grey;
+    text-shadow: 3px 3px 3px cornflowerblue;
+}
+
+img{
+    border-radius: 30px;
+    padding-top: 50px;
+}
